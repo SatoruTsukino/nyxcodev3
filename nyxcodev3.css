@@ -579,7 +579,7 @@ span.username-2b1r56.username-3gJmXY {
 /*Updated 2020-06-20*/
 /*Fancier Pings*/
 .numberBadge-2s8kKX{
-  background-color: #ff1493 !important;
+  background-color: var(--main-color) !important;
   height: 18px;
   width: 18px !important;
   margin-bottom: -3px;
