@@ -11,7 +11,7 @@ made with the help of others.
 /*Stickers fix*/
 .stickerInspected-2EM4w- .stickerBackground-2XECKi, /*Sticker backgrounds when hovered*/
 .viewAllBackground-3Bn1vh{
-  background-color: rgba(255,255,255,0.07);
+  background-color: var(--main-color);
 }
 .wrapper-OxgYJ1 .row-2psonc{ /*Stickers lookup margins*/
   column-gap: 8px !important;
