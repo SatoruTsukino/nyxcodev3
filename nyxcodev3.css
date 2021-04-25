@@ -579,13 +579,12 @@ span.username-2b1r56.username-3gJmXY {
 /*Updated 2020-06-20*/
 /*Fancier Pings*/
 .numberBadge-2s8kKX{
-  background-color: var(--main-color) !important;
+  background-color: rgba(var(--main-color), 0.8) !important;
   height: 18px;
   width: 18px !important;
   margin-bottom: -3px;
   margin-right: -5px;
   border: 1px solid var(--main-color);
-  filter: brightness(0.7);
 }
 .lowerBadge-29hYVK .numberBadge-2s8kKX{
   filter: drop-shadow(0 0 3px var(--main-color)) drop-shadow(0 0 0px var(--main-color)) !important;
