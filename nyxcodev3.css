@@ -1,9 +1,9 @@
 /*---------- Credits ----------*/
 /*
-Hello curious coder! This is the v2 repository for my custom css. 
+Hello curious coder! This is the v2 repository for my custom css.
 If you want to use code from here, just dm me at Nyx#9567 (user ID 393900343135830016)
 Be forewarned that not everything may work as intended and all the parts of this code
-are created to work together and sometimes not apart,and a lot of this code was 
+are created to work together and sometimes not apart,and a lot of this code was
 made with the help of others.
 */
 /*---------- CV Fixes ----------*/
@@ -78,7 +78,7 @@ made with the help of others.
 .peopleList-3c4jOR::-webkit-scrollbar,
 .header-2BwW8b::-webkit-scrollbar, /*user popout*/
 .sidebarRegionScroller-3MXcoP.thin-1ybCId.scrollerBase-289Jih.fade-2kXiP2::-webkit-scrollbar,/*Settings scroll on left*/
-pre::-webkit-scrollbar /*Code scrollbars*/{ 
+pre::-webkit-scrollbar /*Code scrollbars*/{
   width: 10px !important;
 }
 /*Get rid of tip at bottom of user popout*/
@@ -579,7 +579,7 @@ span.username-2b1r56.username-3gJmXY {
 /*Updated 2020-06-20*/
 /*Fancier Pings*/
 .numberBadge-2s8kKX{
-  background-color: #ff1493 !important;
+  background-color: var(--main-color) !important;
   height: 18px;
   width: 18px !important;
   margin-bottom: -3px;
@@ -1178,21 +1178,21 @@ span.username-2b1r56.username-3gJmXY {
   color: var(--text-color) !important;
 }
 .channelTabs-newTab:hover{
-  background: var(--hover-color) !important; 
+  background: var(--hover-color) !important;
   color: white !important;
 }
 .channelTabs-newTab{
-  background: var(--main-color) !important; 
+  background: var(--main-color) !important;
   color: white !important;
 }
 .channelTabs-closeTab,
 .channelTabs-selected .channelTabs-closeTab{
-  background: transparent !important; 
+  background: transparent !important;
   color: white !important;
 }
 .channelTabs-closeTab:hover,
 .channelTabs-selected .channelTabs-closeTab:hover{
-  background: transparent !important; 
+  background: transparent !important;
   color: var(--hover-color) !important;
 }
 .channelTabs-mentionBadge{
