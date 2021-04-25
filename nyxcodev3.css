@@ -585,6 +585,7 @@ span.username-2b1r56.username-3gJmXY {
   margin-bottom: -3px;
   margin-right: -5px;
   border: 1px solid var(--main-color);
+  filter: brightness(0.7);
 }
 .lowerBadge-29hYVK .numberBadge-2s8kKX{
   filter: drop-shadow(0 0 3px var(--main-color)) drop-shadow(0 0 0px var(--main-color)) !important;
